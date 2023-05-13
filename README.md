@@ -1,1 +1,27 @@
-# Advent-of-Code-Dec-2022-
+# Advent of Code - 2022
+
+- [X] Day 1: Calorie Counting
+- [X] Day 2: Rock Paper Scissors
+- [X] Day 3: Rucksack Reorganization
+- [X] Day 4: Camp Cleanup
+- [X] Day 5: Supply Stacks
+- [X] Day 6: Tuning Trouble
+- [X] Day 7: No Space Left On Device
+- [X] Day 8: Treetop Tree House
+- [X] Day 9: Rope Bridge
+- [X] Day 10: Cathode-Ray Tube
+- [X] Day 11: Monkey in the Middle
+- [X] Day 12: Hill Climbing Algorithm
+- [X] Day 13: Distress Signal
+- [X] Day 14: Regolith Reservoir
+- [ ] Day 15: Beacon Exclusion Zone
+- [ ] Day 16: Proboscidea Volcanium
+- [ ] Day 17: Pyroclastic Flow
+- [ ] Day 18: Boiling Boulders
+- [ ] Day 19: Not Enough Minerals
+- [ ] Day 20: Grove Positioning System
+- [ ] Day 21: Monkey Math
+- [ ] Day 22: Monkey Map
+- [ ] Day 23: Unstable Diffusion
+- [ ] Day 24: Blizzard Basin
+- [ ] Day 25: Full of Hot Air
